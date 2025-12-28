@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a third-year Computer Science Engineering student.<br>I have basic knowledge of programming and core computer science subjects. <br>I am interested in learning new technologies and improving my technical skills. <br>I aim to use my knowledge to solve real-world problems.
-
+Third-year Computer Science student <br>
+Learning programming, data structures,and core CS subjects <br>
+Interested in software development and problem solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k_jal_14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kajal-kamble-ba8271277) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kajalk14062005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kajalkamble0713@gmail.com) 
