@@ -1,166 +1,186 @@
 <div align="center">
 
-# 👋 Hi, I'm Kajal Kamble
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Kajal+Kamble;AI+Engineer+%7C+Full+Stack+Developer;Building+Autonomous+Enterprise+Agents;IEEE+Published+Researcher" alt="Typing SVG" />
 
-### 🚀 AI Engineer | Full Stack Developer | IEEE Published Researcher
+  <p align="center">
+    <strong>Artificial Intelligence • Full Stack Development • Cloud Computing</strong>
+  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+%26+LLM+Developer;Full+Stack+Developer;Google+Cloud+Digital+Leader;Salesforce+Trailblazer;IEEE+Published+Researcher;Always+Learning+New+Technologies!" />
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/kajalkamble0713-jpg?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=111" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/kajalkamble0713-jpg?label=Stars&style=for-the-badge&color=9B5DE5&logo=github&logoColor=111" alt="Stars" />
+    <img src="https://komarev.com/ghvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Views" />
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+  ---
+
+  <a href="https://linkedin.com/in/kajal-kamble" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kajalkamble0713@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/kajalk14062005" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/k_jal_14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/kajalkamble" target="_blank">
+    <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  </a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-🎓 **Final-year Computer Science Engineering Student (2027)**  
-🏫 **Alva's Institute of Engineering and Technology**  
-📈 **CGPA:** **8.86**
+<samp>
+I am a passionate <b>AI Engineer & Full Stack Developer</b> currently pursuing my Computer Science Engineering degree at <b>Alvas Institute of Engineering and Technology</b> (Class of 2027 | Current CGPA: <b>8.86</b>). 
 
-💡 Passionate about **Artificial Intelligence, Large Language Models, Cloud Computing, Full Stack Development and Scalable Applications.**
+As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the intersection of Large Language Models (LLMs), multi-agent architectures, and scalable cloud engineering. I bridge academic theory and production-grade software architectures to build systemic, automated solutions.
+</samp>
 
-### 🔭 Currently Building
-
-- 🤖 AI-powered Full Stack Applications using LLMs
-- 🧠 Enterprise Intelligence Engine (Multi-Agent AI)
-- 🏛️ RealMeta Museum (AR Progressive Web App)
-- 🎥 MeetSpot (WebRTC Video Conferencing)
-
-### 🏆 Achievements
-
-- 📄 IEEE CICN 2025 Published Researcher
-- ☁️ Google Cloud Digital Leader Certified
-- ⚡ Salesforce Trailblazer
-- 💻 Open Source Learner
-- 🚀 Passionate AI Developer
+- 🌐 **Deep Focus Areas:** Decentralized Multi-Agent Frameworks, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG).
+- 🛠️ **Current Research & Builds:** Optimizing enterprise workflows via context-aware AI agents and dynamic orchestration layers.
+- ⚡ **Philosophy:** Code gracefully, compute efficiently, and architect intentionally.
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Tech Stack & Ecosystem
 
-<p align="center">
-
-<a href="https://www.instagram.com/k_jal_14">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kajal-kamble">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/kajalk14062005">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:kajalkamble0713@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.salesforce.com/trailblazer/kajalkamble">
-<img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</a>
-
+### 💻 Core Languages & Frameworks
+<p align="left">
+  < a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css" alt="Languages" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,postgres,mongodb,mysql" alt="Frameworks and DBs" />
+  </a>
 </p>
+
+### 🤖 Cloud, DevOps & AI Engineering
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,git,github,vscode,linux" alt="Tools & Cloud" />
+  </a>
+</p>
+
+> **Specialized Implementations:** OpenAI APIs • Gemini Pro / Ultra • Retrieval-Augmented Generation (RAG) • Vector Databases (ChromaDB / Pinecone) • Model Context Protocol (MCP) • RESTful API Architecture
 
 ---
 
-# 💻 Tech Stack
+## 📈 Engineering Insights & Statistics
 
-<p align="center">
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode,linux,aws,gcp,firebase&perline=8"/>
+<br />
 
-</p>
+### 📊 Repository Architecture & Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kajalkamble0713-jpg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkamble0713-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="195px" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true" height="195px" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+<br />
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🧠 Enterprise Intelligence Engine | Multi-Agent AI system using LLMs and autonomous workflows |
-| 🏛️ RealMeta Museum PWA | AR-enabled Progressive Web Application |
-| 🌊 JalDrishti | AI-powered Waterborne Disease Prediction using Satellite Data |
-| 🎥 MeetSpot | Real-time Video Conferencing using WebRTC |
-| 🤖 NexusOps Agent | AI Agent Builder powered by Gemini + MongoDB Atlas |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kajalkamble0713-jpg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkamble0713-jpg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true"/>
-
-</p>
+### 📅 Git Activity Spectrum
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## ⚡ Featured Deployments & Architecture
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=algolia&row=1&column=7"/>
+| Project | Core Concept / Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Enterprise Intelligence Engine** | High-throughput Multi-Agent system leveraging custom LLM pipelines for deep operational automation and structured enterprise insights. | `Gemini` `React` `Node.js` `MongoDB` |
+| **👓 RealMeta Museum** | Next-generation Progressive Web Application featuring immersive, low-latency AR layers to revolutionize educational museum tours. | `PWA` `WebXR` `JavaScript` `CSS3` |
+| **📹 MeetSpot** | Ultra-optimized, ultra-low latency real-time video conferencing hub engineered ground-up utilizing robust WebRTC signaling protocols. | `WebRTC` `Node.js` `Express` `Socket.io` |
+| **🛰️ JalDrishti** | AI-driven environmental analytics suite mapping and predicting waterborne outbreaks via satellite spatial datasets and ML classification. | `Python` `Machine Learning` `GCP` `GIS` |
+| **🧠 NexusOps Agent** | Intelligent operational sidekick built over Model Context Protocol (MCP) specifications for adaptive data access controls. | `Gemini` `MCP` `MongoDB Atlas` `Node.js` |
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# ⚙️ Coding Profiles
+## 🏅 Certifications & Research Footprint
 
-<p align="center">
-
-<a href="https://www.salesforce.com/trailblazer/kajalkamble">
-<img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</a>
-
-<a href="https://www.cloudskillsboost.google">
-<img src="https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kajalkamble0713-jpg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Badge" /><br/>
+        <strong>Digital Leader</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Badge" /><br/>
+        <strong>Ranked Innovator</strong>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/IEEE_Explore-Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Badge" /><br/>
+        <strong>CICN 2025 Researcher</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-# ✍️ Dev Quote
+## 🎮 Contributions Matrix
 
-<p align="center">
+<div align="center">
+  <img src="https://github.com/kajalkamble0713-jpg/kajalkamble0713-jpg/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" onError="this.src='https://raw.githubusercontent.com/kajalkamble0713-jpg/kajalkamble0713-jpg/output/github-contribution-grid-snake.svg'"/>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<details>
+<summary>⚙️ Automated Contribution Pipeline Details</summary>
 
-</p>
+The workflow above updates dynamically every 24 hours via safe GitHub Actions. It compiles the contribution profile history into a clean, game-ready `.svg` canvas housed inside the target output branch.
+</details>
+
+---
+
+## 🎯 Profile Registry
+
+<div align="center">
+  <a href="https://github.com/kajalkamble0713-jpg">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=plastic&logo=github&logoColor=white" height="35px"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/kajalkamble">
+    <img src="https://img.shields.io/badge/Salesforce_Portal-00A1E0?style=plastic&logo=salesforce&logoColor=white" height="35px"/>
+  </a>
+  <a href="https://linkedin.com/in/kajal-kamble">
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=plastic&logo=linkedin&logoColor=white" height="35px"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
 
-## 💖 Thanks for Visiting!
+> "The best way to predict the future is to invent it." — *Alan Kay*
 
-### ⭐ If you like my projects, don't forget to star them!
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6A5ACD&height=120&section=footer"/>
+### 🌌 Thank You for Stopping By! 
+If you find my projects impactful or resourceful, feel free to **star ⭐ the repositories**! Let's collaborate and push the boundaries of intelligence and automation.
 
-</div>
+```html
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer)" width="100%" />
