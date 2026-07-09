@@ -52,7 +52,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 
 ### 💻 Core Languages & Frameworks
 <p align="left">
-  < a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css" alt="Languages" /><br><br>
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,postgres,mongodb,mysql" alt="Frameworks and DBs" />
   </a>
@@ -182,5 +182,8 @@ The workflow above updates dynamically every 24 hours via safe GitHub Actions. I
 ### 🌌 Thank You for Stopping By! 
 If you find my projects impactful or resourceful, feel free to **star ⭐ the repositories**! Let's collaborate and push the boundaries of intelligence and automation.
 
-```html
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer" width="100%" />
+
+**Happy Coding!** 💻🚀
+
+</div>
