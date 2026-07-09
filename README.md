@@ -1,8 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Kajal Kamble
+<h1>
+Hi 👋 I'm <span style="color:#00C4FF;">Kajal Kamble</span>
+</h1>
 
-### 🚀 AI Engineer | Full Stack Developer | IEEE Published Researcher
+<h3>
+AI Engineer • Full Stack Developer • IEEE Published Researcher
+</h3>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+%26+LLM+Developer;Full+Stack+Developer;Google+Cloud+Digital+Leader;Salesforce+Trailblazer;IEEE+Published+Researcher;Always+Learning+New+Technologies!" />
 
