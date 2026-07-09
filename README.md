@@ -1,6 +1,6 @@
 <div align="center">
 
-   # 👋 Hi, I'm Kajal Kamble
+ 
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Kajal+Kamble;AI+Engineer+%7C+Full+Stack+Developer;Building+Autonomous+Enterprise+Agents;IEEE+Published+Researcher" alt="Typing SVG" />
 
