@@ -7,10 +7,10 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  ---
+  <br/>
 
   <a href="https://linkedin.com/in/kajal-kamble" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -30,53 +30,54 @@
 
 </div>
 
----
+<br/>
 
 ## 🚀 About Me
 
 <samp>
-I am a passionate <b>AI Engineer & Full Stack Developer</b> currently pursuing my Computer Science Engineering degree at <b>Alvas Institute of Engineering and Technology</b> (Class of 2027 | Current CGPA: <b>8.86</b>). 
+I am a passionate <b>AI Engineer & Full Stack Developer</b> currently pursuing my Computer Science Engineering degree at <b>Alvas Institute of Engineering and Technology</b> (Class of 2027 | Current CGPA: <b>8.86</b>).
 
 As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the intersection of Large Language Models (LLMs), multi-agent architectures, and scalable cloud engineering. I bridge academic theory and production-grade software architectures to build systemic, automated solutions.
 </samp>
 
-- 🌐 **Deep Focus Areas:** Decentralized Multi-Agent Frameworks, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG).
-- 🛠️ **Current Research & Builds:** Optimizing enterprise workflows via context-aware AI agents and dynamic orchestration layers.
-- ⚡ **Philosophy:** Code gracefully, compute efficiently, and architect intentionally.
+- 🌐 **Deep Focus Areas:** Decentralized Multi-Agent Frameworks, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG)
+- 🛠️ **Current Research & Builds:** Optimizing enterprise workflows via context-aware AI agents and dynamic orchestration layers
+- ⚡ **Philosophy:** Code gracefully, compute efficiently, and architect intentionally
 
----
+<br/>
 
 ## 🛠️ Tech Stack & Ecosystem
 
 ### 💻 Core Languages & Frameworks
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css" alt="Languages" /><br><br>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,postgres,mongodb,mysql" alt="Frameworks and DBs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,html,css" alt="Languages" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,postgres,mongodb,mysql" alt="Frameworks and Databases" />
 </p>
 
 ### 🤖 Cloud, DevOps & AI Engineering
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,git,github,vscode,linux" alt="Tools & Cloud" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,git,github,vscode,linux" alt="Tools & Cloud" />
 </p>
 
 > **Specialized Implementations:** OpenAI APIs • Gemini Pro / Ultra • Retrieval-Augmented Generation (RAG) • Vector Databases (ChromaDB / Pinecone) • Model Context Protocol (MCP) • RESTful API Architecture
 
----
+<br/>
 
 ## 📈 Engineering Insights & Statistics
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-<br />
+<br/>
 
 ### 📊 Repository Architecture & Metrics
+
 <div align="center">
   <table border="0">
     <tr>
@@ -87,20 +88,21 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkamble0713-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="195px" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true" height="195px" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true" height="195px" alt="Streak Stats" />
       </td>
     </tr>
   </table>
 </div>
 
-<br />
+<br/>
 
 ### 📅 Git Activity Spectrum
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyonight&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
----
+<br/>
 
 ## ⚡ Featured Deployments & Architecture
 
@@ -108,15 +110,15 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 
 | Project | Core Concept / Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Enterprise Intelligence Engine** | High-throughput Multi-Agent system leveraging custom LLM pipelines for deep operational automation and structured enterprise insights. | `Gemini` `React` `Node.js` `MongoDB` |
-| **👓 RealMeta Museum** | Next-generation Progressive Web Application featuring immersive, low-latency AR layers to revolutionize educational museum tours. | `PWA` `WebXR` `JavaScript` `CSS3` |
-| **📹 MeetSpot** | Ultra-optimized, ultra-low latency real-time video conferencing hub engineered ground-up utilizing robust WebRTC signaling protocols. | `WebRTC` `Node.js` `Express` `Socket.io` |
+| **🤖 Enterprise Intelligence Engine** | High-throughput multi-agent system leveraging custom LLM pipelines for deep operational automation and structured enterprise insights. | `Gemini` `React` `Node.js` `MongoDB` |
+| **👓 RealMeta Museum** | Next-generation Progressive Web App featuring immersive, low-latency AR layers to revolutionize educational museum tours. | `PWA` `WebXR` `JavaScript` `CSS3` |
+| **📹 MeetSpot** | Ultra-optimized, ultra-low latency real-time video conferencing hub engineered ground-up on robust WebRTC signaling protocols. | `WebRTC` `Node.js` `Express` `Socket.io` |
 | **🛰️ JalDrishti** | AI-driven environmental analytics suite mapping and predicting waterborne outbreaks via satellite spatial datasets and ML classification. | `Python` `Machine Learning` `GCP` `GIS` |
 | **🧠 NexusOps Agent** | Intelligent operational sidekick built over Model Context Protocol (MCP) specifications for adaptive data access controls. | `Gemini` `MCP` `MongoDB Atlas` `Node.js` |
 
 </div>
 
----
+<br/>
 
 ## 🏅 Certifications & Research Footprint
 
@@ -139,7 +141,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
   </table>
 </div>
 
----
+<br/>
 
 ## 🎮 Contributions Matrix
 
@@ -149,13 +151,15 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 
 <details>
 <summary>⚙️ Automated Contribution Pipeline Details</summary>
+<br/>
 
-The workflow above updates dynamically every 24 hours via safe GitHub Actions. It compiles the contribution profile history into a clean, game-ready `.svg` canvas housed inside the target output branch.
+The workflow above updates dynamically every 24 hours via a GitHub Action. It compiles your contribution history into an animated `.svg` "snake" and pushes it to a dedicated `output` branch.
 
-> 💡 *Note: If the snake graphic above appears blank or broken, make sure your designated GitHub Action workflow has run successfully at least once to create the `output` branch and generate the file.*
+> 💡 **If this graphic is blank or broken**, it means the workflow hasn't run yet in your repo. Add the file below at `.github/workflows/snake.yml` in your `kajalkamble0713-jpg/kajalkamble0713-jpg` repo, then trigger it once manually from the **Actions** tab (`Run workflow`). After the first successful run it will create the `output` branch and the image will start showing.
+
 </details>
 
----
+<br/>
 
 ## 🎯 Profile Registry
 
@@ -171,15 +175,16 @@ The workflow above updates dynamically every 24 hours via safe GitHub Actions. I
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
 
 > "The best way to predict the future is to invent it." — *Alan Kay*
 
-<br />
+<br/>
 
-### 🌌 Thank You for Stopping By! 
+### 🌌 Thank You for Stopping By!
+
 If you find my projects impactful or resourceful, feel free to **star ⭐ the repositories**! Let's collaborate and push the boundaries of intelligence and automation.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer" width="100%" />
