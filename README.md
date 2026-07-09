@@ -7,8 +7,6 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/github/followers/kajalkamble0713-jpg?label=Followers&style=for-the-badge&color=00F2FE&logo=github&logoColor=111" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/kajalkamble0713-jpg?label=Stars&style=for-the-badge&color=9B5DE5&logo=github&logoColor=111" alt="Stars" />
     <img src="https://komarev.com/ghvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Views" />
   </p>
 
@@ -146,7 +144,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 ## 🎮 Contributions Matrix
 
 <div align="center">
-  <img src="https://github.com/kajalkamble0713-jpg/kajalkamble0713-jpg/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" onError="this.src='https://raw.githubusercontent.com/kajalkamble0713-jpg/kajalkamble0713-jpg/output/github-contribution-grid-snake.svg'"/>
+  <img src="https://raw.githubusercontent.com/kajalkamble0713-jpg/kajalkamble0713-jpg/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <details>
