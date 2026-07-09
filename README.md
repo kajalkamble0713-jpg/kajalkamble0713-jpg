@@ -1,14 +1,14 @@
 <div align="center">
 
+   # 👋 Hi, I'm Kajal Kamble
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Kajal+Kamble;AI+Engineer+%7C+Full+Stack+Developer;Building+Autonomous+Enterprise+Agents;IEEE+Published+Researcher" alt="Typing SVG" />
 
   <p align="center">
     <strong>Artificial Intelligence • Full Stack Development • Cloud Computing</strong>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Views" />
-  </p>
+ 
 
   ---
 
@@ -69,10 +69,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 
 ## 📈 Engineering Insights & Statistics
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+
 
 <br />
 
