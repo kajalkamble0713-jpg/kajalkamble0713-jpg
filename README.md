@@ -121,9 +121,9 @@ philosophy: "Code gracefully. Compute efficiently. Architect intentionally."
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google_Cloud-Digital_Leader-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-Ranked_Innovator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-<img src="https://img.shields.io/badge/IEEE_CICN_2025-Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/GOOGLE_CLOUD-Digital_Leader-00F2FE?style=for-the-badge&logo=googlecloud&logoColor=0d1117&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/SALESFORCE-Ranked_Innovator-00F2FE?style=for-the-badge&logo=salesforce&logoColor=0d1117&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/📜_IEEE_CICN_2025-Published_Author-00F2FE?style=for-the-badge&labelColor=161b22"/>
 
 </div>
 
