@@ -82,8 +82,6 @@ philosophy: "Code gracefully. Compute efficiently. Architect intentionally."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&v=3" width="100%"/>
-
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kajalkamble0713-jpg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&border_radius=10&v=3" height="200px"/>
