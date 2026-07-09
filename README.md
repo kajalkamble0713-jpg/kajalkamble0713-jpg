@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=kajalkamble0713-jpg&label=Profile+Views&color=00F2FE&style=for-the-badge&v=2" alt="Profile Views" />
   </p>
 
   <br/>
@@ -71,7 +71,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kajalkamble0713-jpg&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&v=2" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -82,13 +82,13 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kajalkamble0713-jpg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kajalkamble0713-jpg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=2" height="195px" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkamble0713-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" height="195px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalkamble0713-jpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&v=2" height="195px" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true" height="195px" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true&v=2" height="195px" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -99,7 +99,7 @@ As an <b>IEEE CICN 2025 Published Researcher</b>, my expertise lies at the inter
 ### 📅 Git Activity Spectrum
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&theme=tokyo-night&bg_color=1a1b26&hide_border=true&v=2" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
