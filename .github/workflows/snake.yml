@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: kajalkamble0713-jpg
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=00f2fe&color_dots=161b22,1b2a41,1d4e6b,0f8b9c,00c9d6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00f2fe&color_dots=0d1117,1b2a41,1d4e6b,0f8b9c,00f2fe
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
