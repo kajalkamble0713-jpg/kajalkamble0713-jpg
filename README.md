@@ -1,14 +1,8 @@
 <div align="center">
 
-<h1>
-Hi 👋 I'm <span style="color:#00C4FF;">Kajal Kamble</span>
-</h1>
+# 👋 Hi, I'm Kajal Kamble
 
-<h3>
-AI Engineer • Full Stack Developer • IEEE Published Researcher
-</h3>
-
-</div>
+### 🚀 AI Engineer | Full Stack Developer | IEEE Published Researcher
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+%26+LLM+Developer;Full+Stack+Developer;Google+Cloud+Digital+Leader;Salesforce+Trailblazer;IEEE+Published+Researcher;Always+Learning+New+Technologies!" />
 
@@ -47,19 +41,23 @@ AI Engineer • Full Stack Developer • IEEE Published Researcher
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.instagram.com/k_jal_14">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kajal-kamble">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://x.com/kajalk14062005">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:kajalkamble0713@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_TRAILBLAZER">
+<a href="https://www.salesforce.com/trailblazer/kajalkamble">
 <img src="https://img.shields.io/badge/Salesforce-Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </a>
 
