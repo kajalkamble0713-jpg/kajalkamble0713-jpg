@@ -13,6 +13,18 @@
 
 <img src="./kajal-lanyard.svg?v=3" align="left" width="260" alt="Kajal Kamble ID badge"/>
 
+### 👋 Hey, I'm Kajal!
+
+A Computer Science undergrad who loves turning ideas into working systems — from autonomous LLM agents that reason and act on their own, to full-stack apps people can actually click around in.
+
+**⚡ Quick facts**
+- 🧠 Currently deep in multi-agent AI systems & prompt engineering
+- 🌐 Building end-to-end with React, Node.js & MongoDB
+- 📄 Published researcher — IEEE CICN 2025
+- 🎯 CGPA 8.9/10, always shipping side projects on the side
+
+<br/>
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
