@@ -61,19 +61,19 @@
     <g font-family="'Segoe UI', Arial, sans-serif" font-size="26" fill="#1d4ed8">
       <text x="50" y="222" opacity="0">
         Full-Stack Developer
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="4s" begin="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.025;0.2125;0.25;1" dur="16s" begin="3.2s" repeatCount="indefinite"/>
       </text>
       <text x="50" y="222" opacity="0">
         AI / LLM Systems Builder
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="4s" begin="7.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.275;0.4625;0.5;1" dur="16s" begin="3.2s" repeatCount="indefinite"/>
       </text>
       <text x="50" y="222" opacity="0">
         Multi-Agent Workflow Designer
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="4s" begin="11.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.525;0.7125;0.75;1" dur="16s" begin="3.2s" repeatCount="indefinite"/>
       </text>
       <text x="50" y="222" opacity="0">
         CSE Undergraduate, CGPA 8.9
-        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="4s" begin="15.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.775;0.9625;1" dur="16s" begin="3.2s" repeatCount="indefinite"/>
       </text>
     </g>
 
