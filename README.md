@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./kajal-banner.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./kajal-banner-light.svg?v=2">
-  <img src="./kajal-banner.svg?v=2" alt="Kajal Kamble — Full-Stack & AI/LLM Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./kajal-banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./kajal-banner-light.svg?v=4">
+  <img src="./kajal-banner.svg?v=4" alt="Kajal Kamble — Full-Stack & AI/LLM Developer" width="100%"/>
 </picture>
 
 </div>
@@ -27,14 +27,16 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 - 📊 Data Analytics Job Simulation — Deloitte
 - 🌐 Intro to Web Development (HTML, CSS, JS) — IBM
 
+<br clear="left"/>
+
 **🏆 Achievements**
 - 📄 Published in IEEE CICN 2025 — Energy-Efficient Communication & Sustainable Networks
 - 🏅 Participated in a national-level hackathon (AR museum platform)
 - 🌱 Active contributor to full-stack & cloud-based development projects
 
-> 🔭 **Currently building:** smarter multi-agent workflows
-> 🌱 **Currently learning:** advanced LLM orchestration & system design
-> 💬 **Ask me about:** prompt engineering, React, or my IEEE paper
+> 🔭 **Currently building:** smarter multi-agent workflows  
+> 🌱 **Currently learning:** advanced LLM orchestration & system design  
+> 💬 **Ask me about:** prompt engineering, React, or my IEEE paper  
 > ⚡ **Fun fact:** I'd rather debug at midnight than sleep on an unsolved bug
 
 <br/>
@@ -59,6 +61,12 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 
 <img src="./kajal-stats.svg?v=2" alt="GitHub Stats" height="185"/>
 <img src="./kajal-langs.svg?v=2" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+### 🛠️ Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,mongodb,mysql,html,css,git,docker,vscode&theme=dark" alt="Technologies & Tools"/>
 
 <br/><br/>
 
