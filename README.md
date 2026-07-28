@@ -74,8 +74,8 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 
 <br/><br/>
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajalkamble0713-jpg&bg_color=0a0e27&color=22d3ee&line=3b82f6&point=67e8f9&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Graph%20💙" alt="Contribution graph" width="95%"/>
+<!-- 📈 Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/22d3ee/kajalkamble0713-jpg" alt="Contribution heatmap" width="95%"/>
 
 <br/><br/>
 
