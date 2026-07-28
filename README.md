@@ -70,10 +70,6 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=kajalkamble0713-jpg&theme=tokyonight&hide_border=true&background=0a0e27&ring=22d3ee&fire=3b82f6&currStreakLabel=67e8f9" alt="GitHub Streak"/>
-
-<br/><br/>
-
 <!-- 📈 Contribution Heatmap -->
 <img src="https://ghchart.rshah.org/22d3ee/kajalkamble0713-jpg" alt="Contribution heatmap" width="95%"/>
 
@@ -81,12 +77,6 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 
 <!-- 🏆 Trophies -->
 <img src="./kajal-trophies.svg?v=2" alt="Trophies" width="95%"/>
-
-<br/><br/>
-
-### 🐍 Watch the snake eat my contributions
-
-<img src="https://raw.githubusercontent.com/kajalkamble0713-jpg/kajalkamble0713-jpg/output/github-snake-blue.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
