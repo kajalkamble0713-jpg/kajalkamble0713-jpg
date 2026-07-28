@@ -34,11 +34,6 @@ A Computer Science undergrad who loves turning ideas into working systems — fr
 - 🏅 Participated in a national-level hackathon (AR museum platform)
 - 🌱 Active contributor to full-stack & cloud-based development projects
 
-> 🔭 **Currently building:** smarter multi-agent workflows  
-> 🌱 **Currently learning:** advanced LLM orchestration & system design  
-> 💬 **Ask me about:** prompt engineering, React, or my IEEE paper  
-> ⚡ **Fun fact:** I'd rather debug at midnight than sleep on an unsolved bug
-
 <br/>
 
 ### 🚀 Featured Projects
