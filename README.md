@@ -17,11 +17,25 @@
 
 A Computer Science undergrad who loves turning ideas into working systems — from autonomous LLM agents that reason and act on their own, to full-stack apps people can actually click around in.
 
-**⚡ Quick facts**
-- 🧠 Currently deep in multi-agent AI systems & prompt engineering
-- 🌐 Building end-to-end with React, Node.js & MongoDB
-- 📄 Published researcher — IEEE CICN 2025
-- 🎯 CGPA 8.9/10, always shipping side projects on the side
+![Followers](https://img.shields.io/github/followers/kajalkamble0713-jpg?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/kajalkamble0713-jpg?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=kajalkamble0713-jpg&color=22d3ee&style=flat-square&label=Views)
+
+**🎓 Certifications**
+- ☁️ Google Cloud Digital Leader Training Professional Certificate
+- 📐 NPTEL Theory of Computation — IIT Kharagpur (2025)
+- 📊 Data Analytics Job Simulation — Deloitte
+- 🌐 Intro to Web Development (HTML, CSS, JS) — IBM
+
+**🏆 Achievements**
+- 📄 Published in IEEE CICN 2025 — Energy-Efficient Communication & Sustainable Networks
+- 🏅 Participated in a national-level hackathon (AR museum platform)
+- 🌱 Active contributor to full-stack & cloud-based development projects
+
+> 🔭 **Currently building:** smarter multi-agent workflows
+> 🌱 **Currently learning:** advanced LLM orchestration & system design
+> 💬 **Ask me about:** prompt engineering, React, or my IEEE paper
+> ⚡ **Fun fact:** I'd rather debug at midnight than sleep on an unsolved bug
 
 <br/>
 
