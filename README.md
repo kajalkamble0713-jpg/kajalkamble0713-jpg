@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./kajal-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./kajal-banner-light.svg?v=1">
-  <img src="./kajal-banner.svg?v=1" alt="Kajal Kamble — Full-Stack & AI/LLM Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./kajal-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./kajal-banner-light.svg?v=2">
+  <img src="./kajal-banner.svg?v=2" alt="Kajal Kamble — Full-Stack & AI/LLM Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="32%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./kajal-lanyard.svg?v=1" alt="Kajal Kamble ID badge" width="280"/>
+<img src="./kajal-lanyard.svg?v=2" alt="Kajal Kamble ID badge" width="280"/>
 
 </td>
 <td width="68%" valign="middle">
@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./kajal-stats.svg?v=1" alt="GitHub Stats" height="185"/>
-<img src="./kajal-langs.svg?v=1" alt="Top Languages" height="185"/>
+<img src="./kajal-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./kajal-langs.svg?v=2" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -58,7 +58,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="./kajal-trophies.svg?v=1" alt="Trophies" width="95%"/>
+<img src="./kajal-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
