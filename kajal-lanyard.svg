@@ -1,0 +1,114 @@
+<svg width="330" height="480" viewBox="0 0 330 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0e7490"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+    <linearGradient id="cardGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1730"/>
+      <stop offset="100%" stop-color="#0d1f3a"/>
+    </linearGradient>
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="ringGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.6"/>
+    </radialGradient>
+    <clipPath id="cardClip">
+      <rect x="65" y="150" width="200" height="260" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- swinging group: drop-in then pendulum -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 165 20; 0 165 20; 8 165 20; -7 165 20; 5 165 20; -4 165 20; 3 165 20; -2 165 20; 0 165 20"
+      keyTimes="0;0.12;0.22;0.34;0.46;0.58;0.7;0.85;1"
+      dur="7s" begin="0.6s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
+
+    <!-- drop-in translate -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 -140;0 0" dur="0.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.3 1"/>
+
+      <!-- clip ring / hook -->
+      <circle cx="165" cy="20" r="10" fill="none" stroke="#94a3b8" stroke-width="4"/>
+      <rect x="158" y="26" width="14" height="16" rx="4" fill="#64748b"/>
+
+      <!-- strap -->
+      <path d="M155 40 L145 150 L185 150 L175 40 Z" fill="url(#strapGrad)"/>
+      <text x="165" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#e0f2fe" text-anchor="middle" transform="rotate(90 165 90)" opacity="0.85">KAJAL • KAJAL • KAJAL</text>
+
+      <!-- metal clasp -->
+      <rect x="150" y="145" width="30" height="18" rx="4" fill="#94a3b8" stroke="#475569" stroke-width="1.4"/>
+      <circle cx="165" cy="154" r="5" fill="#cbd5e1"/>
+
+      <!-- card -->
+      <g>
+        <rect x="65" y="150" width="200" height="260" rx="16" fill="url(#cardGradL)" stroke="#22d3ee" stroke-width="1.6"/>
+
+        <g clip-path="url(#cardClip)">
+          <!-- header -->
+          <rect x="65" y="150" width="200" height="46" fill="#0e2337"/>
+          <text x="165" y="178" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="bold" fill="#67e8f9" text-anchor="middle" letter-spacing="2">DEVELOPER ID</text>
+
+          <!-- avatar ring -->
+          <circle cx="165" cy="252" r="46" fill="url(#ringGlow)">
+            <animate attributeName="r" values="42;48;42" dur="2.6s" repeatCount="indefinite"/>
+          </circle>
+          <circle cx="165" cy="252" r="38" fill="#0d1f3a" stroke="#22d3ee" stroke-width="2.4"/>
+
+          <!-- simple vector face -->
+          <g transform="translate(165,252)">
+            <circle cx="0" cy="-6" r="17" fill="#0e2337" stroke="#67e8f9" stroke-width="1.6"/>
+            <path d="M-16 -10 Q0 -26 16 -10 Q17 -18 0 -20 Q-17 -18 -16 -10Z" fill="#0a1730"/>
+            <circle cx="-6" cy="-6" r="2" fill="#67e8f9"/>
+            <circle cx="6" cy="-6" r="2" fill="#67e8f9"/>
+            <path d="M18 4 Q0 26 -18 4 L-18 20 Q0 34 18 20 Z" fill="#0e2337" stroke="#3b82f6" stroke-width="1.4"/>
+          </g>
+
+          <!-- name / role -->
+          <text x="165" y="316" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#e2e8f0" text-anchor="middle">Kajal Kamble</text>
+          <text x="165" y="336" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" fill="#93c5fd" text-anchor="middle">Full-Stack &amp; AI/LLM Developer</text>
+          <text x="165" y="353" font-family="'Courier New', monospace" font-size="11" fill="#67e8f9" text-anchor="middle">@kajalkamble0713-jpg</text>
+
+          <!-- barcode -->
+          <g transform="translate(90,368)" fill="#67e8f9">
+            <rect x="0" y="0" width="2" height="24"/>
+            <rect x="4" y="0" width="1" height="24"/>
+            <rect x="7" y="0" width="3" height="24"/>
+            <rect x="12" y="0" width="1" height="24"/>
+            <rect x="15" y="0" width="2" height="24"/>
+            <rect x="19" y="0" width="1" height="24"/>
+            <rect x="22" y="0" width="4" height="24"/>
+            <rect x="28" y="0" width="1" height="24"/>
+            <rect x="31" y="0" width="2" height="24"/>
+            <rect x="35" y="0" width="1" height="24"/>
+            <rect x="38" y="0" width="3" height="24"/>
+            <rect x="43" y="0" width="1" height="24"/>
+            <rect x="46" y="0" width="2" height="24"/>
+            <rect x="50" y="0" width="1" height="24"/>
+            <rect x="53" y="0" width="4" height="24"/>
+            <rect x="59" y="0" width="1" height="24"/>
+            <rect x="62" y="0" width="2" height="24"/>
+            <rect x="66" y="0" width="1" height="24"/>
+            <rect x="69" y="0" width="3" height="24"/>
+            <rect x="74" y="0" width="2" height="24"/>
+          </g>
+
+          <!-- holographic shine sweep -->
+          <rect x="-60" y="150" width="60" height="280" fill="url(#shineGrad)" transform="skewX(-20)">
+            <animate attributeName="x" values="-60;320" dur="3.2s" repeatCount="indefinite" begin="1s"/>
+          </rect>
+        </g>
+
+        <rect x="65" y="150" width="200" height="260" rx="16" fill="none" stroke="#3b82f6" stroke-width="0.8" opacity="0.6"/>
+      </g>
+    </g>
+  </g>
+</svg>
