@@ -11,14 +11,15 @@
 
 <br/>
 
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td width="32%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
 <img src="./kajal-lanyard.svg?v=3" alt="Kajal Kamble ID badge" width="280"/>
 
-</div>
-
-<br/>
+</td>
+<td width="68%" valign="middle">
 
 ### 🚀 Featured Projects
 
@@ -28,11 +29,13 @@
 | [🖼️ RealMeta Museum PWA](https://github.com/kajalkamble0713-jpg) | AR-enabled progressive web app for museum artwork recognition with LLM content generation | `React` `Node.js` `MongoDB` |
 | [📹 MeetSpot](https://github.com/kajalkamble0713-jpg) | Real-time peer-to-peer video conferencing platform | `WebRTC` `Node.js` `JS` |
 
-<div align="center">
+<br/>
 
 > 💙 *"I don't just call APIs — I orchestrate agents."*
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
